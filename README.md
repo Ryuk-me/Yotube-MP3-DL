@@ -15,13 +15,13 @@ Youtube MP3 Downloader
 `$ sudo apt-get install ffmpeg`
 
 # How to use 
-##### Download the repository
-##### Unzip it
+#### Download the repository
+#### Unzip it
 `Shift + Right click`
 ##### And choose open cmd here or open powershell here
-##### then install
+#### then install
 `requirements.txt` and `ffpmpeg`
-##### After that run command 
+#### After that run command 
 `python main.py` 
 ## and paste youtube link.
 
