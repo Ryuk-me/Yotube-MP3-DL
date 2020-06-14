@@ -2,4 +2,4 @@
 Youtube MP3 Downloader
 
 # Install requiremnets
-$ pip install -r requirements.txt
+`$ pip install -r requirements.txt`
