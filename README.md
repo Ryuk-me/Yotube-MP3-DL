@@ -18,12 +18,12 @@ Youtube MP3 Downloader
 #### Download the repository
 #### Unzip it
 `Shift + Right click`
-##### And choose open cmd here or open powershell here
+#### And choose open cmd here or open powershell here
 #### then install
 `requirements.txt` and `ffpmpeg`
 #### After that run command 
 `python main.py` 
-## and paste youtube link.
+#### and paste youtube link.
 
 # Run it Online
 
