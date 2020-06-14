@@ -5,7 +5,7 @@ Youtube MP3 Downloader
 `$ pip install -r requirements.txt`
 
 # Install ffmpeg 
- ##Windows Users Run command prompt as admin and run the following code
+<h2>Windows Users Run command prompt as admin and run the following code<h2>
 `$ choco install ffmpeg`
 
 `MAC users`
